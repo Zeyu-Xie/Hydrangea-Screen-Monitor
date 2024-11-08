@@ -2,6 +2,20 @@
 
 For safely monitoring screens
 
+## Install
+
+This tool is temperarily not accepted by homebrew, so you can install it by brew tap
+
+```bash
+brew tap Zeyu-Xie/homebrew-core
+```
+
+then install it by brew
+
+```bash
+brew install hydrangea-screen-monitor
+```
+
 ## Run
 
 Use password to run the script
