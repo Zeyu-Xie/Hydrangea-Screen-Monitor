@@ -1,6 +1,6 @@
 # Hydrangea-Screen-Monitor
 
-For safely monitoring screens
+A homebrew package for safely monitoring remote screens.
 
 ## Install
 
